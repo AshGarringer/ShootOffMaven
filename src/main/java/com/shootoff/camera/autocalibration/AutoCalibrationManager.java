@@ -61,7 +61,7 @@ public class AutoCalibrationManager {
 	// 11/10.65 = 1.032. With 1/4" margins this should be 11/10.5, but OpenCV
 	// reads the pattern a bit big
 	private static final double PAPER_MARGIN_WIDTH = 1.032;
-	// 8.5/8.25 = 1.030.
+	// 8.5/8.25 = 1.030
 	private static final double PAPER_MARGIN_HEIGHT = 1.03;
 	private static final Size boardSize = new Size(PATTERN_WIDTH, PATTERN_HEIGHT);
 
