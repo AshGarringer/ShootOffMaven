@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="246543f5-0722-4cca-932f-432be8a10bef" name="Changes" comment="Added project to github">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Command2.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/annotations-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/ant-1.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/ant-launcher-1.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/asm-4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bluecove-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bluecove-gpl-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/bridj-0.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/cloning-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/colt-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-cli-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-httpclient-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/commons-vfs2-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/concurrent-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/core-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/core-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/core-aop-support-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/core-citation-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/dx-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/emotionml-checker-java-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/freetts-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/freetts-en_us-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/gson-2.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/guava-14.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/hamcrest-core-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/hsqldb-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/httpclient-4.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/httpcore-4.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/httpcore-nio-4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/httpmime-4.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jackson-core-2.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/javassist-3.12.1.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jbibtex-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jcip-annotations-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jna-4.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jna-platform-4.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jsoup-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jsr305-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jtok-core-1.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/jwnl-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/kryo-2.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/marytts-common-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/marytts-lang-en-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/marytts-runtime-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/marytts-signalproc-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/maven-scm-api-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/maven-scm-provider-svn-commons-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/maven-scm-provider-svnexe-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/minlog-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/objenesis-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/opencv-2.4.13-0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/opennlp-maxent-3.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/opennlp-tools-1.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/oshi-core-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/plexus-utils-1.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/raven-7.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/raven-logback-7.8.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/reflectasm-1.07-shaded.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/regexp-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/swing-layout-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/trove4j-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/v4l4j-0.9.1-r507.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/voice-cmu-slt-hsmm-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/webcam-capture-0.3.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/webcam-capture-driver-ipcam-0.3.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/webcam-capture-driver-v4l4j-0.3.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/xuggle-xuggler-5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/annotations-3.0.1/1.0.0/annotations-3.0.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/annotations-3.0.1/1.0.0/annotations-3.0.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/annotations-3.0.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/ant-1.8.4/1.0.0/ant-1.8.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/ant-1.8.4/1.0.0/ant-1.8.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/ant-1.8.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/ant-launcher-1.8.4/1.0.0/ant-launcher-1.8.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/ant-launcher-1.8.4/1.0.0/ant-launcher-1.8.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/ant-launcher-1.8.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/asm-4.0/1.0.0/asm-4.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/asm-4.0/1.0.0/asm-4.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/asm-4.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bluecove-2.1.0/1.0.0/bluecove-2.1.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bluecove-2.1.0/1.0.0/bluecove-2.1.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bluecove-2.1.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bluecove-gpl-2.1.0/1.0.0/bluecove-gpl-2.1.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bluecove-gpl-2.1.0/1.0.0/bluecove-gpl-2.1.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bluecove-gpl-2.1.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bridj-0.7.0/1.0.0/bridj-0.7.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bridj-0.7.0/1.0.0/bridj-0.7.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/bridj-0.7.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/cloning-1.9.1/1.0.0/cloning-1.9.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/cloning-1.9.1/1.0.0/cloning-1.9.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/cloning-1.9.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/colt-1.2.0/1.0.0/colt-1.2.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/colt-1.2.0/1.0.0/colt-1.2.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/colt-1.2.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-cli-1.4/1.0.0/commons-cli-1.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-cli-1.4/1.0.0/commons-cli-1.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-cli-1.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-codec-1.9/1.0.0/commons-codec-1.9-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-codec-1.9/1.0.0/commons-codec-1.9-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-codec-1.9/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-collections-3.2.1/1.0.0/commons-collections-3.2.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-collections-3.2.1/1.0.0/commons-collections-3.2.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-collections-3.2.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-httpclient-3.1/1.0.0/commons-httpclient-3.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-httpclient-3.1/1.0.0/commons-httpclient-3.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-httpclient-3.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-io-2.2/1.0.0/commons-io-2.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-io-2.2/1.0.0/commons-io-2.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-io-2.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-lang-2.6/1.0.0/commons-lang-2.6-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-lang-2.6/1.0.0/commons-lang-2.6-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-lang-2.6/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-logging-1.2/1.0.0/commons-logging-1.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-logging-1.2/1.0.0/commons-logging-1.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-logging-1.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-vfs2-2.0/1.0.0/commons-vfs2-2.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-vfs2-2.0/1.0.0/commons-vfs2-2.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/commons-vfs2-2.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/concurrent-1.3.4/1.0.0/concurrent-1.3.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/concurrent-1.3.4/1.0.0/concurrent-1.3.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/concurrent-1.3.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-1.3.5/1.0.0/core-1.3.5-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-1.3.5/1.0.0/core-1.3.5-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-1.3.5/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-3.3.0/1.0.0/core-3.3.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-3.3.0/1.0.0/core-3.3.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-3.3.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-aop-support-1.3.5/1.0.0/core-aop-support-1.3.5-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-aop-support-1.3.5/1.0.0/core-aop-support-1.3.5-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-aop-support-1.3.5/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-citation-1.3.5/1.0.0/core-citation-1.3.5-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-citation-1.3.5/1.0.0/core-citation-1.3.5-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/core-citation-1.3.5/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/dx-1.7/1.0.0/dx-1.7-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/dx-1.7/1.0.0/dx-1.7-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/dx-1.7/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/emotionml-checker-java-1.1/1.0.0/emotionml-checker-java-1.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/emotionml-checker-java-1.1/1.0.0/emotionml-checker-java-1.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/emotionml-checker-java-1.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/freetts-1.0/1.0.0/freetts-1.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/freetts-1.0/1.0.0/freetts-1.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/freetts-1.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/freetts-en_us-1.0/1.0.0/freetts-en_us-1.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/freetts-en_us-1.0/1.0.0/freetts-en_us-1.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/freetts-en_us-1.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/gson-2.8.0/1.0.0/gson-2.8.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/gson-2.8.0/1.0.0/gson-2.8.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/gson-2.8.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/guava-14.0.1/1.0.0/guava-14.0.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/guava-14.0.1/1.0.0/guava-14.0.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/guava-14.0.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/hamcrest-core-1.1/1.0.0/hamcrest-core-1.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/hamcrest-core-1.1/1.0.0/hamcrest-core-1.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/hamcrest-core-1.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/hsqldb-2.0.0/1.0.0/hsqldb-2.0.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/hsqldb-2.0.0/1.0.0/hsqldb-2.0.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/hsqldb-2.0.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpclient-4.5.3/1.0.0/httpclient-4.5.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpclient-4.5.3/1.0.0/httpclient-4.5.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpclient-4.5.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpcore-4.4.6/1.0.0/httpcore-4.4.6-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpcore-4.4.6/1.0.0/httpcore-4.4.6-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpcore-4.4.6/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpcore-nio-4.1/1.0.0/httpcore-nio-4.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpcore-nio-4.1/1.0.0/httpcore-nio-4.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpcore-nio-4.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpmime-4.5.3/1.0.0/httpmime-4.5.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpmime-4.5.3/1.0.0/httpmime-4.5.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/httpmime-4.5.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jackson-core-2.8.7/1.0.0/jackson-core-2.8.7-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jackson-core-2.8.7/1.0.0/jackson-core-2.8.7-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jackson-core-2.8.7/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/javassist-3.12.1.GA/1.0.0/javassist-3.12.1.GA-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/javassist-3.12.1.GA/1.0.0/javassist-3.12.1.GA-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/javassist-3.12.1.GA/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jbibtex-1.0.2/1.0.0/jbibtex-1.0.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jbibtex-1.0.2/1.0.0/jbibtex-1.0.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jbibtex-1.0.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jcip-annotations-1.0/1.0.0/jcip-annotations-1.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jcip-annotations-1.0/1.0.0/jcip-annotations-1.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jcip-annotations-1.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jna-4.2.2/1.0.0/jna-4.2.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jna-4.2.2/1.0.0/jna-4.2.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jna-4.2.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jna-platform-4.2.2/1.0.0/jna-platform-4.2.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jna-platform-4.2.2/1.0.0/jna-platform-4.2.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jna-platform-4.2.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/json-simple-1.1.1/1.0.0/json-simple-1.1.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/json-simple-1.1.1/1.0.0/json-simple-1.1.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/json-simple-1.1.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jsoup-1.9.1/1.0.0/jsoup-1.9.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jsoup-1.9.1/1.0.0/jsoup-1.9.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jsoup-1.9.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jsr305-3.0.1/1.0.0/jsr305-3.0.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jsr305-3.0.1/1.0.0/jsr305-3.0.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jsr305-3.0.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jtok-core-1.9.1/1.0.0/jtok-core-1.9.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jtok-core-1.9.1/1.0.0/jtok-core-1.9.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jtok-core-1.9.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jwnl-1.3.3/1.0.0/jwnl-1.3.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jwnl-1.3.3/1.0.0/jwnl-1.3.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/jwnl-1.3.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/kryo-2.21/1.0.0/kryo-2.21-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/kryo-2.21/1.0.0/kryo-2.21-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/kryo-2.21/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/log4j-1.2.16/1.0.0/log4j-1.2.16-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/log4j-1.2.16/1.0.0/log4j-1.2.16-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/log4j-1.2.16/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/logback-classic-1.2.3/1.0.0/logback-classic-1.2.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/logback-classic-1.2.3/1.0.0/logback-classic-1.2.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/logback-classic-1.2.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/logback-core-1.2.3/1.0.0/logback-core-1.2.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/logback-core-1.2.3/1.0.0/logback-core-1.2.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/logback-core-1.2.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-common-5.1.2/1.0.0/marytts-common-5.1.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-common-5.1.2/1.0.0/marytts-common-5.1.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-common-5.1.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-lang-en-5.1.2/1.0.0/marytts-lang-en-5.1.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-lang-en-5.1.2/1.0.0/marytts-lang-en-5.1.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-lang-en-5.1.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-runtime-5.1.2/1.0.0/marytts-runtime-5.1.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-runtime-5.1.2/1.0.0/marytts-runtime-5.1.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-runtime-5.1.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-signalproc-5.1.2/1.0.0/marytts-signalproc-5.1.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-signalproc-5.1.2/1.0.0/marytts-signalproc-5.1.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/marytts-signalproc-5.1.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-api-1.4/1.0.0/maven-scm-api-1.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-api-1.4/1.0.0/maven-scm-api-1.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-api-1.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-provider-svn-commons-1.4/1.0.0/maven-scm-provider-svn-commons-1.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-provider-svn-commons-1.4/1.0.0/maven-scm-provider-svn-commons-1.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-provider-svn-commons-1.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-provider-svnexe-1.4/1.0.0/maven-scm-provider-svnexe-1.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-provider-svnexe-1.4/1.0.0/maven-scm-provider-svnexe-1.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/maven-scm-provider-svnexe-1.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/minlog-1.2/1.0.0/minlog-1.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/minlog-1.2/1.0.0/minlog-1.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/minlog-1.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/objenesis-2.1/1.0.0/objenesis-2.1-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/objenesis-2.1/1.0.0/objenesis-2.1-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/objenesis-2.1/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opencv-2.4.13-0/1.0.0/opencv-2.4.13-0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opencv-2.4.13-0/1.0.0/opencv-2.4.13-0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opencv-2.4.13-0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opennlp-maxent-3.0.3/1.0.0/opennlp-maxent-3.0.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opennlp-maxent-3.0.3/1.0.0/opennlp-maxent-3.0.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opennlp-maxent-3.0.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opennlp-tools-1.5.3/1.0.0/opennlp-tools-1.5.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opennlp-tools-1.5.3/1.0.0/opennlp-tools-1.5.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/opennlp-tools-1.5.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/oshi-core-3.4.0/1.0.0/oshi-core-3.4.0-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/oshi-core-3.4.0/1.0.0/oshi-core-3.4.0-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/oshi-core-3.4.0/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/plexus-utils-1.5.6/1.0.0/plexus-utils-1.5.6-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/plexus-utils-1.5.6/1.0.0/plexus-utils-1.5.6-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/plexus-utils-1.5.6/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/raven-7.8.6/1.0.0/raven-7.8.6-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/raven-7.8.6/1.0.0/raven-7.8.6-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/raven-7.8.6/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/raven-logback-7.8.6/1.0.0/raven-logback-7.8.6-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/raven-logback-7.8.6/1.0.0/raven-logback-7.8.6-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/raven-logback-7.8.6/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/reflectasm-1.07-shaded/1.0.0/reflectasm-1.07-shaded-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/reflectasm-1.07-shaded/1.0.0/reflectasm-1.07-shaded-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/reflectasm-1.07-shaded/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/regexp-1.3/1.0.0/regexp-1.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/regexp-1.3/1.0.0/regexp-1.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/regexp-1.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/slf4j-api-1.7.25/1.0.0/slf4j-api-1.7.25-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/slf4j-api-1.7.25/1.0.0/slf4j-api-1.7.25-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/slf4j-api-1.7.25/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/swing-layout-1.0.3/1.0.0/swing-layout-1.0.3-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/swing-layout-1.0.3/1.0.0/swing-layout-1.0.3-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/swing-layout-1.0.3/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/trove4j-3.0.2/1.0.0/trove4j-3.0.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/trove4j-3.0.2/1.0.0/trove4j-3.0.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/trove4j-3.0.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/v4l4j-0.9.1-r507/1.0.0/v4l4j-0.9.1-r507-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/v4l4j-0.9.1-r507/1.0.0/v4l4j-0.9.1-r507-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/v4l4j-0.9.1-r507/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/voice-cmu-slt-hsmm-5.1.2/1.0.0/voice-cmu-slt-hsmm-5.1.2-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/voice-cmu-slt-hsmm-5.1.2/1.0.0/voice-cmu-slt-hsmm-5.1.2-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/voice-cmu-slt-hsmm-5.1.2/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-0.3.11/1.0.0/webcam-capture-0.3.11-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-0.3.11/1.0.0/webcam-capture-0.3.11-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-0.3.11/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-driver-ipcam-0.3.11/1.0.0/webcam-capture-driver-ipcam-0.3.11-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-driver-ipcam-0.3.11/1.0.0/webcam-capture-driver-ipcam-0.3.11-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-driver-ipcam-0.3.11/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-driver-v4l4j-0.3.11/1.0.0/webcam-capture-driver-v4l4j-0.3.11-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-driver-v4l4j-0.3.11/1.0.0/webcam-capture-driver-v4l4j-0.3.11-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/webcam-capture-driver-v4l4j-0.3.11/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/xuggle-xuggler-5.4/1.0.0/xuggle-xuggler-5.4-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/xuggle-xuggler-5.4/1.0.0/xuggle-xuggler-5.4-1.0.0.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localRepo/com/shootoff/libs/xuggle-xuggler-5.4/maven-metadata-local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/Closeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/ObservableCloseable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/CameraCalibrationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/CameraDebuggerListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/CameraErrorView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/CameraFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/CameraManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/CameraView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/CamerasSupervisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/Shot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/autocalibration/AutoCalibrationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/cameratypes/CalculatedFPSCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/cameratypes/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/cameratypes/CameraEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/cameratypes/IpCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/cameratypes/OptiTrackCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/cameratypes/PS3EyeCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/cameratypes/SarxosCaptureCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/perspective/PerspectiveManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/perspective/UnsupportedCameraException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/processors/DeduplicationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/processors/MalfunctionsProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/processors/ShotProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/processors/VirtualMagazineProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/recorders/RollingRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/recorders/ShotRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shot/ArenaShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shot/BoundsShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shot/DisplayShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shot/ShotColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/CameraStateListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/FrameProcessingShotDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/JavaShotDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/NativeShotDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/OptiTrackShotDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/Pixel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/PixelCluster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/PixelClusterManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/ShotDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/camera/shotdetection/ShotYieldingShotDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/config/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/config/ConfigurationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/courses/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/courses/io/CourseIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/courses/io/CourseVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/courses/io/XMLCourseReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/courses/io/XMLCourseWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/AutocalibrationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/CalibrationConfigurator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/CalibrationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/CalibrationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/CalibrationOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/CameraConfigListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/CanvasManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/CheckableImageListCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/DelayedStartListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/DesignateShotRecorderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/ExerciseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/LocatedImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/MirroredCanvasManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/ParListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/PlaybackListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/Resetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/SessionCanvasManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/ShotEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/controller/PluginManagerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/controller/PreferencesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/controller/SessionViewerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/controller/ShootOFFController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/controller/StreamDebuggerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/controller/TargetEditorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/controller/VideoPlayerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ArenaBackgroundsSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ArenaCoursesSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ExerciseSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/FileSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ItemSelectionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ItemSelectionPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/PluginManagerSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/PreferencesSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ProjectorArenaPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ProjectorSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/SessionViewerSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/ShotSectorPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/Slide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/SlideHiddenListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/TagEditorPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/TargetDistancePane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/TargetEditorSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/pane/TargetSlide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/targets/CommandProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/targets/MirroredTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/targets/TargetCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/targets/TargetListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/gui/targets/TargetView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/BluetoothServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/ConnectionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/HeadlessController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/HeadlessServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/QRCodeListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/AddTargetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/AddedTargetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/ClearCourseMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/ConfigurationData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/CurrentArenaSnapshotMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/CurrentBackgroundsMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/CurrentConfigurationMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/CurrentCoursesMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/CurrentExercisesMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/CurrentTargetsMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/ErrorMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/GetArenaSnapshotMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/GetBackgroundsMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/GetConfigurationMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/GetCoursesMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/GetExercisesMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/GetTargetsMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/HeartbeatMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/MessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/MoveTargetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/NewShotMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/RemoveTargetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/ResetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/ResizeTargetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/SaveCourseMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/SetBackgroundMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/SetConfigurationMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/SetCourseMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/SetExerciseMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/StartCalibrationMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/StopCalibrationMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/headless/protocol/TargetMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/imports/DummyLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/imports/GlobalExecutorPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/imports/HostServicesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/BouncingTargets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/DuelingTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/ExerciseMetadata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/ISSFStandardPistol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/ParForScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/ParRandomShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/ProjectorTrainingExerciseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/RandomShoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/ShootDontShoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/ShootForScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/SteelChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/TextToSpeech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/TimedHolsterDrill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/TrainingExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/TrainingExerciseBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/TrainingExerciseView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/engine/Plugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/engine/PluginEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/engine/PluginListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/plugins/engine/PluginType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/EventType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/ExerciseFeedMessageEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/SessionRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/ShotEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/TargetAddedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/TargetMovedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/TargetRemovedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/TargetResizedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/io/EventVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/io/JSONSessionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/io/JSONSessionWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/io/SessionIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/io/XMLSessionReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/session/io/XMLSessionWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/CameraViews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/EllipseRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/Hit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/ImageRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/MockHit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/PolygonRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/RectangleRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/RegionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/TargetRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/animation/GifAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/animation/ImageFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/animation/SpriteAnimation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/io/RegionVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/io/TargetIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/io/TargetReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/io/XMLTargetReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/targets/io/XMLTargetWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/util/HardwareData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/util/NamedThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/util/SwingFXUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/util/SystemInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/util/TimerPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shootoff/util/VersionChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/hickok45_autumn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/hickok45_summer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/image_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/indoor_range.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/kiang_west_savanna.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/oradour-sur-glane.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/outdoor_range.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/steel_range_bay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/arena/backgrounds/subterranean_parking_lot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/shootoff/gui/PluginManager.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/shootoff/gui/Preferences.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/shootoff/gui/SessionViewer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/shootoff/gui/ShootOFF.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/shootoff/gui/StreamDebugger.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/shootoff/gui/TargetEditor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/shootoff/gui/VideoPlayer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/appleseed_d_silhouette_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/appleseed_d_silhouette_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/appleseed_d_silhouette_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/back_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/blank_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/bring_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/exercise_icons/PAR_drill_for_score_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/exercise_icons/PAR_drill_with_random_subtarget_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/exercise_icons/Random_shoot_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/exercise_icons/Shoot_for_score_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/freeform_polygon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/gnome_image_x_generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/gnome_media_floppy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/gnome_media_playback_pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/gnome_media_playback_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/gnome_media_skip_backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/gnome_media_skip_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_48x48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_64x64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon_no_tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/image_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/mute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/normal_folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/oval.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/perspective_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/pictures.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/send_backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/windows_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/version.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/hickok45_autumn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/hickok45_summer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/image_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/indoor_range.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/kiang_west_savanna.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/oradour-sur-glane.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/outdoor_range.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/steel_range_bay.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/arena/backgrounds/subterranean_parking_lot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shootoff/gui/PluginManager.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shootoff/gui/Preferences.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shootoff/gui/SessionViewer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shootoff/gui/ShootOFF.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shootoff/gui/StreamDebugger.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shootoff/gui/TargetEditor.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/shootoff/gui/VideoPlayer.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/appleseed_d_silhouette_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/appleseed_d_silhouette_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/appleseed_d_silhouette_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/back_button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/blank_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/bring_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/cursor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/exercise_icons/PAR_drill_for_score_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/exercise_icons/PAR_drill_with_random_subtarget_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/exercise_icons/Random_shoot_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/exercise_icons/Shoot_for_score_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/freeform_polygon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/gnome_image_x_generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/gnome_media_floppy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/gnome_media_playback_pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/gnome_media_playback_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/gnome_media_skip_backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/gnome_media_skip_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_48x48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_64x64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/icon_no_tag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/image_licenses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/mute.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/normal_folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/oval.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/perspective_settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/pictures.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/send_backward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/sound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/images/windows_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/version.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/annotations-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/ant-1.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/ant-launcher-1.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/asm-4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/bluecove-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/bluecove-gpl-2.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/bridj-0.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/cloning-1.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/colt-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/commons-cli-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/commons-vfs2-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/concurrent-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/core-1.3.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/core-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/core-aop-support-1.3.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/core-citation-1.3.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/dx-1.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/gson-2.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/httpclient-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/httpcore-4.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/httpmime-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jackson-core-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jal-20031117.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/javassist-3.12.1.GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jbibtex-1.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jcip-annotations-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jna-4.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jna-platform-4.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jsoup-1.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/jsr305-3.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/junit-4.13.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/kryo-2.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/log4j-api-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/log4j-core-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/marytts-5.2.1.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/marytts-common-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/marytts-lang-en-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/marytts-runtime-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/marytts-signalproc-5.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/maven-scm-api-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/maven-scm-provider-svn-commons-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/maven-scm-provider-svnexe-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/minlog-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/objenesis-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/opencv-2.4.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/oshi-core-3.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/plexus-utils-1.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/raven-7.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/raven-logback-7.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/reflectasm-1.07-shaded.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/regexp-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/trove4j-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/v4l4j-0.9.1-r507.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/webcam-capture-0.3.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/webcam-capture-driver-ipcam-0.3.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/webcam-capture-driver-v4l4j-0.3.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/libs/xuggle-xuggler-5.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shootoff-1.0.0-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/shootoff-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.example.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/org.example.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="C:\Program Files\Maven\Maven 3.8.8" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2qDxlqTxZv38eFzbgBzA1pDkzlp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Run ShootOff.executor": "Run",
+    "Maven.shootoff [compile].executor": "Run",
+    "Maven.shootoff [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Ash Garringer/JavaProjects/ShootOffMaven/libs/xuggle-xuggler-5.4.jar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Run ShootOff" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="exec:java" />
+                <option value="-Dexec.mainClass=com.shootoff.Main" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="246543f5-0722-4cca-932f-432be8a10bef" name="Changes" comment="" />
+      <created>1734211105319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734211105319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added project to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added project to github" />
+  </component>
+</project>
